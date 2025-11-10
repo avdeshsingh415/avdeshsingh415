@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Avdesh Singh</h1>
+<h1 align="center">Hi 👋, I'm Avdesh Singh <img align="center" src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="100"></h1>
+<p align="center"> <img src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" alt="Kermit"/>
 <h3 align="center">A passionate Full-Stack Developer with expertise in modern web technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdeshsingh415&label=Profile%20views&color=0e75b6&style=flat" alt="avdeshsingh415" /> </p>
